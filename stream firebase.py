@@ -9,9 +9,9 @@ import time
 
 config = {
   "apiKey": "AIzaSyDwLt60kJLcjgLCET9KDyyj6fx2rmi1EZQ",
-  "authDomain": "airmirror-final.firebaseapp.com",
-  "databaseURL": "https://airmirror-final.firebaseio.com/",
-  "storageBucket": "airmirror-final.appspot.com",
+  "authDomain": "WieAssist-final.firebaseapp.com",
+  "databaseURL": "https://WieAssist-final.firebaseio.com/",
+  "storageBucket": "WieAssist-final.appspot.com",
   #"serviceAccount": "path/to/serviceAccountCredentials.json"
 }
 
