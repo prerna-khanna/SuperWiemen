@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "770998512157",
+    "firebase_url": "https://superwiemen.firebaseio.com",
+    "project_id": "superwiemen",
+    "storage_bucket": "superwiemen.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:770998512157:android:3f9a68d9eb686519",
+        "android_client_info": {
+          "package_name": "com.example.hp.superwiemen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "770998512157-ruaed9g24i77qk9i8miqoj4a6i8gjlcv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hp.superwiemen",
+            "certificate_hash": "cbea0f3ab147673ef896fe2cc8a90f54a496a44f"
+          }
+        },
+        {
+          "client_id": "770998512157-ifegqgt60bnivfcidl1l96900atr72uj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9Gv7BHOwCYQXxhLf7UNUOz28_uauJGWw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "770998512157-ifegqgt60bnivfcidl1l96900atr72uj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
