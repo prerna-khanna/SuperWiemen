@@ -1,8 +1,5 @@
 # SuperWiemen
 
-# SuperWiemen
-
-
 Data_Analysis
 
 Our data is collected from three sources and then processed to rate a place based on safety. The three parameters that we used are:
@@ -17,6 +14,10 @@ of a place. If there is any place that has not been rated by anyone, then this i
 
 3. From Existing Databases : This is the number of crimes happening in a particular place that are available on various websites. 
 This data has also been processed and contribute to final rating.This is done by "data_analysis/crime_analysis.py".
+
+The final rating is decided by final_rating.py and uploaded on firebase from where these ratings can be accessed according to the requirement. 
+
+
 
 
 
