@@ -1,6 +1,6 @@
 # SuperWiemen
 
-WieAssistt
+WieAssist
 
 This app collects data from different sources such as crowd sourcing and news to rate a place in terms of safety for women. This is a personalised app that tracks your daily schedule and alerts you in case of any anamoly for ex - if you are running late. It aims to take care of all the daily habits like taking the safest route and means of transport that can make safety a priority. Thus this app embeds safety in your life. After all, 'Prevention is better than cure'.
 
